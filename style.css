@@ -50,7 +50,7 @@
 }
 
 .container-1 {
-	width: 800px;
+	width: 100%;
 	margin: auto;
 	font: 70px/70px 'bebas-regular', 'Arial Narrow', arial, sans-serif;
 	color: rgba(202, 204, 204, .5);
@@ -165,7 +165,7 @@ input:hover {
 	margin-right: auto;
 	margin-left: auto;
 	transition: .3s;
-	cursor: pointer;
+	cursor: pointer;z
 }
 
 .wishlist:hover {
@@ -219,7 +219,7 @@ input:hover {
 .footer {
 	height: 40px;
 	background-color: #333333;
-	opacity: 
+	opacity:
 }
 
 .footer .copy {
