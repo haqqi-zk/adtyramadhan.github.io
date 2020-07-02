@@ -1,41 +1,54 @@
 @media all and (max-width: 1000px){
   .main-utama h1{
-    font-size: 70px;
-  }
-
-  .main-tambahan-2{
-    margin-top: -30px;
-  }
-  .main-tambahan-2 h1{
-    font-size: 40px;
-    margin-bottom: 80px;
-  }
-  .main-tambahan-1{
-    height: 1900px;
-    text-align: center;
-  }
-  .card{
-    height: 350px;
-    margin-left: -100px;
-  }
-  .card h1{
-    font-size: 25px;
-    line-height: 30px;
-  }
-  .place{
-    margin-left: 140px;
-    margin-bottom: 30px
-  }
-}
-
-@media all and (max-width: 670px){
-  .main-tambahan-2{
-    
-  }
-  .main-utama h1{
     font-size: 50px;
   }
+  .place{
+    margin-left: 120px;
+    
+  }
+  .card h1{
+    font-size: 30px;
+    line-height: 35px;
+    margin-top: 10px;
+  }
+  .main-tambahan-1{
+    height: 2200px;
+  }
+
+}
+@media all and (max-width: 670px){
+  .main-utama{
+    height: 200px;
+  }
+  .main-utama h1{
+    
+    font-size: 30px;
+  }
+  .header li{
+    font-size: 10px;
+    margin-right: 15px;
+  }
   input{
-    width: 600px;
+    width: 300px;
     font-size: 12px;
+  }
+  .place{
+    margin-left: -5px;
+    width: 240px;
+  }
+  .card img{
+    height: 150px;
+  }
+  .card h1{
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 10px;
+  }
+  .main-tambahan-1{
+    height: 2200px;
+  }
+  .main-tambahan-2{
+    height: 600px;
+  }
+
 }
