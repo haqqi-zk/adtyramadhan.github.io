@@ -1,15 +1,33 @@
 @media all and (max-width: 1000px){
+  .main-utama h1{
+    font-size: 70px;
+  }
+
   .main-tambahan-2{
     margin-top: -30px;
   }
   .main-tambahan-2 h1{
+    font-size: 40px;
     margin-bottom: 80px;
   }
   .main-tambahan-1{
-    height: 1800px;
+    height: 1900px;
+  }
+  .card{
+    height: 350px;
+  }
+  .card h1{
+    font-size: 25px;
+    line-height: 30px;
   }
   .place{
-    margin-left: 250px;
+    margin-left: 140px;
     margin-bottom: 30px
+  }
+}
+
+@media all and (max-width: 670px){
+  .main-tambahan-2{
+
   }
 }
