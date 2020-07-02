@@ -30,6 +30,10 @@
 
 @media all and (max-width: 670px){
   .main-tambahan-2{
-
+    
   }
+  .main-utama h1{
+    font-size: 50px;
+  }
+  
 }
