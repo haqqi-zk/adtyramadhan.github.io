@@ -12,10 +12,11 @@
   }
   .main-tambahan-1{
     height: 1900px;
-    margin-left: -100px;
+    
   }
   .card{
     height: 350px;
+    margin-left: -100px;
   }
   .card h1{
     font-size: 25px;
